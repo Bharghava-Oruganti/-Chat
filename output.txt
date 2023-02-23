@@ -1,0 +1,334 @@
+
+Attendence/Messages data for 3 days is found in the given TEXT file
+
+Please Enter the NO_OF Students
+
+ENTER TARGET NAME	Bharghav Oruganti is present 3 days out of 3 days	Percentage of student is 100.0
+DATE			 NAME				#MSGS
+01-02-2021		Bharghav Oruganti			8
+02-02-2021		Bharghav Oruganti			6
+09-02-2021		Bharghav Oruganti			5
+
+ENTER TARGET NAME	TUSHAR AGARWAL is present 2 days out of 3 days	Percentage of student is 66.7
+DATE			 NAME				#MSGS
+01-02-2021		TUSHAR AGARWAL			1
+02-02-2021		TUSHAR AGARWAL			0
+09-02-2021		TUSHAR AGARWAL			1
+
+ENTER TARGET NAME	RACHIT AGRAWAL is present 3 days out of 3 days	Percentage of student is 100.0
+DATE			 NAME				#MSGS
+01-02-2021		RACHIT AGRAWAL			6
+02-02-2021		RACHIT AGRAWAL			10
+09-02-2021		RACHIT AGRAWAL			12
+
+ENTER TARGET NAME	SOUMAY AGRAWAL is present 3 days out of 3 days	Percentage of student is 100.0
+DATE			 NAME				#MSGS
+01-02-2021		SOUMAY AGRAWAL			7
+02-02-2021		SOUMAY AGRAWAL			9
+09-02-2021		SOUMAY AGRAWAL			8
+
+ENTER TARGET NAME	SHUBHAM ANAND JAISWAL is present 3 days out of 3 days	Percentage of student is 100.0
+DATE			 NAME				#MSGS
+01-02-2021		SHUBHAM ANAND JAISWAL			1
+02-02-2021		SHUBHAM ANAND JAISWAL			9
+09-02-2021		SHUBHAM ANAND JAISWAL			6
+
+ENTER TARGET NAME	AYUSHI ARYA is present 3 days out of 3 days	Percentage of student is 100.0
+DATE			 NAME				#MSGS
+01-02-2021		AYUSHI ARYA			9
+02-02-2021		AYUSHI ARYA			11
+09-02-2021		AYUSHI ARYA			13
+
+ENTER TARGET NAME	SIDHARTH BHATLA is present 3 days out of 3 days	Percentage of student is 100.0
+DATE			 NAME				#MSGS
+01-02-2021		SIDHARTH BHATLA			6
+02-02-2021		SIDHARTH BHATLA			2
+09-02-2021		SIDHARTH BHATLA			7
+
+ENTER TARGET NAME	DIVYAM DUBEY is present 3 days out of 3 days	Percentage of student is 100.0
+DATE			 NAME				#MSGS
+01-02-2021		DIVYAM DUBEY			2
+02-02-2021		DIVYAM DUBEY			10
+09-02-2021		DIVYAM DUBEY			3
+
+ENTER TARGET NAME	SOURABH GARG is present 3 days out of 3 days	Percentage of student is 100.0
+DATE			 NAME				#MSGS
+01-02-2021		SOURABH GARG			11
+02-02-2021		SOURABH GARG			18
+09-02-2021		SOURABH GARG			16
+
+ENTER TARGET NAME	MONISHA GAUTAM is present 3 days out of 3 days	Percentage of student is 100.0
+DATE			 NAME				#MSGS
+01-02-2021		MONISHA GAUTAM			5
+02-02-2021		MONISHA GAUTAM			10
+09-02-2021		MONISHA GAUTAM			2
+
+ENTER TARGET NAME	ATUL GOYAL is present 3 days out of 3 days	Percentage of student is 100.0
+DATE			 NAME				#MSGS
+01-02-2021		ATUL GOYAL			9
+02-02-2021		ATUL GOYAL			10
+09-02-2021		ATUL GOYAL			13
+
+ENTER TARGET NAME	HIMANSHU JAIN is present 3 days out of 3 days	Percentage of student is 100.0
+DATE			 NAME				#MSGS
+01-02-2021		HIMANSHU JAIN			7
+02-02-2021		HIMANSHU JAIN			1
+09-02-2021		HIMANSHU JAIN			6
+
+ENTER TARGET NAME	Payal Jain is present 3 days out of 3 days	Percentage of student is 100.0
+DATE			 NAME				#MSGS
+01-02-2021		Payal Jain			6
+02-02-2021		Payal Jain			8
+09-02-2021		Payal Jain			15
+
+ENTER TARGET NAME	AARYA JHA is present 3 days out of 3 days	Percentage of student is 100.0
+DATE			 NAME				#MSGS
+01-02-2021		AARYA JHA			14
+02-02-2021		AARYA JHA			8
+09-02-2021		AARYA JHA			15
+
+ENTER TARGET NAME	RIHA K is present 3 days out of 3 days	Percentage of student is 100.0
+DATE			 NAME				#MSGS
+01-02-2021		RIHA K			6
+02-02-2021		RIHA K			7
+09-02-2021		RIHA K			5
+
+ENTER TARGET NAME	KATI KALYANI is present 3 days out of 3 days	Percentage of student is 100.0
+DATE			 NAME				#MSGS
+01-02-2021		KATI KALYANI			1
+02-02-2021		KATI KALYANI			7
+09-02-2021		KATI KALYANI			18
+
+ENTER TARGET NAME	ARYAN KASHYAP is present 3 days out of 3 days	Percentage of student is 100.0
+DATE			 NAME				#MSGS
+01-02-2021		ARYAN KASHYAP			10
+02-02-2021		ARYAN KASHYAP			7
+09-02-2021		ARYAN KASHYAP			16
+
+ENTER TARGET NAME	MANAS KHANTAL is present 3 days out of 3 days	Percentage of student is 100.0
+DATE			 NAME				#MSGS
+01-02-2021		MANAS KHANTAL			7
+02-02-2021		MANAS KHANTAL			13
+09-02-2021		MANAS KHANTAL			18
+
+ENTER TARGET NAME	AADHAR KUMAR is present 3 days out of 3 days	Percentage of student is 100.0
+DATE			 NAME				#MSGS
+01-02-2021		AADHAR KUMAR			2
+02-02-2021		AADHAR KUMAR			3
+09-02-2021		AADHAR KUMAR			7
+
+ENTER TARGET NAME	ANIL KUMAR is present 1 days out of 3 days	Percentage of student is 33.3
+DATE			 NAME				#MSGS
+01-02-2021		ANIL KUMAR			0
+02-02-2021		ANIL KUMAR			0
+09-02-2021		ANIL KUMAR			7
+
+ENTER TARGET NAME	ANKIT KUMAR CHOUDHARY is present 3 days out of 3 days	Percentage of student is 100.0
+DATE			 NAME				#MSGS
+01-02-2021		ANKIT KUMAR CHOUDHARY			7
+02-02-2021		ANKIT KUMAR CHOUDHARY			7
+09-02-2021		ANKIT KUMAR CHOUDHARY			8
+
+ENTER TARGET NAME	KISHAN KUMAR is present 3 days out of 3 days	Percentage of student is 100.0
+DATE			 NAME				#MSGS
+01-02-2021		KISHAN KUMAR			7
+02-02-2021		KISHAN KUMAR			5
+09-02-2021		KISHAN KUMAR			20
+
+ENTER TARGET NAME	MOHIT KUMAR is present 3 days out of 3 days	Percentage of student is 100.0
+DATE			 NAME				#MSGS
+01-02-2021		MOHIT KUMAR			10
+02-02-2021		MOHIT KUMAR			11
+09-02-2021		MOHIT KUMAR			15
+
+ENTER TARGET NAME	SAURAV KUMAR is present 3 days out of 3 days	Percentage of student is 100.0
+DATE			 NAME				#MSGS
+01-02-2021		SAURAV KUMAR			1
+02-02-2021		SAURAV KUMAR			12
+09-02-2021		SAURAV KUMAR			4
+
+ENTER TARGET NAME	SHREY KUMAR is present 2 days out of 3 days	Percentage of student is 66.7
+DATE			 NAME				#MSGS
+01-02-2021		SHREY KUMAR			11
+02-02-2021		SHREY KUMAR			4
+09-02-2021		SHREY KUMAR			0
+
+ENTER TARGET NAME	SUBODH KUMAR is present 3 days out of 3 days	Percentage of student is 100.0
+DATE			 NAME				#MSGS
+01-02-2021		SUBODH KUMAR			8
+02-02-2021		SUBODH KUMAR			12
+09-02-2021		SUBODH KUMAR			13
+
+ENTER TARGET NAME	Umang Kumar is present 3 days out of 3 days	Percentage of student is 100.0
+DATE			 NAME				#MSGS
+01-02-2021		Umang Kumar			4
+02-02-2021		Umang Kumar			7
+09-02-2021		Umang Kumar			3
+
+ENTER TARGET NAME	RONALD M is present 1 days out of 3 days	Percentage of student is 33.3
+DATE			 NAME				#MSGS
+01-02-2021		RONALD M			2
+02-02-2021		RONALD M			0
+09-02-2021		RONALD M			0
+
+ENTER TARGET NAME	SHRIANSH MANHAS is present 3 days out of 3 days	Percentage of student is 100.0
+DATE			 NAME				#MSGS
+01-02-2021		SHRIANSH MANHAS			2
+02-02-2021		SHRIANSH MANHAS			4
+09-02-2021		SHRIANSH MANHAS			3
+
+ENTER TARGET NAME	D ROHITH is present 3 days out of 3 days	Percentage of student is 100.0
+DATE			 NAME				#MSGS
+01-02-2021		D ROHITH			4
+02-02-2021		D ROHITH			4
+09-02-2021		D ROHITH			5
+
+ENTER TARGET NAME	PRIYANKA SEHRA is present 3 days out of 3 days	Percentage of student is 100.0
+DATE			 NAME				#MSGS
+01-02-2021		PRIYANKA SEHRA			8
+02-02-2021		PRIYANKA SEHRA			7
+09-02-2021		PRIYANKA SEHRA			4
+
+ENTER TARGET NAME	MOHAMMED SHADAB is present 3 days out of 3 days	Percentage of student is 100.0
+DATE			 NAME				#MSGS
+01-02-2021		MOHAMMED SHADAB			1
+02-02-2021		MOHAMMED SHADAB			10
+09-02-2021		MOHAMMED SHADAB			7
+
+ENTER TARGET NAME	ANKIT SHARMA is present 3 days out of 3 days	Percentage of student is 100.0
+DATE			 NAME				#MSGS
+01-02-2021		ANKIT SHARMA			9
+02-02-2021		ANKIT SHARMA			14
+09-02-2021		ANKIT SHARMA			17
+
+ENTER TARGET NAME	DEEPAK SHARMA is present 3 days out of 3 days	Percentage of student is 100.0
+DATE			 NAME				#MSGS
+01-02-2021		DEEPAK SHARMA			5
+02-02-2021		DEEPAK SHARMA			9
+09-02-2021		DEEPAK SHARMA			11
+
+ENTER TARGET NAME	HARSH SHARMA is present 3 days out of 3 days	Percentage of student is 100.0
+DATE			 NAME				#MSGS
+01-02-2021		HARSH SHARMA			8
+02-02-2021		HARSH SHARMA			1
+09-02-2021		HARSH SHARMA			5
+
+ENTER TARGET NAME	shreya is present 0 days out of 3 days	Percentage of student is 0.0
+DATE			 NAME				#MSGS
+01-02-2021		shreya			0
+02-02-2021		shreya			0
+09-02-2021		shreya			0
+
+ENTER TARGET NAME	ADITYA SINGH is present 2 days out of 3 days	Percentage of student is 66.7
+DATE			 NAME				#MSGS
+01-02-2021		ADITYA SINGH			1
+02-02-2021		ADITYA SINGH			0
+09-02-2021		ADITYA SINGH			1
+
+ENTER TARGET NAME	ROHIT SINGH is present 2 days out of 3 days	Percentage of student is 66.7
+DATE			 NAME				#MSGS
+01-02-2021		ROHIT SINGH			0
+02-02-2021		ROHIT SINGH			1
+09-02-2021		ROHIT SINGH			1
+
+ENTER TARGET NAME	SAMANDEEP SINGH is present 3 days out of 3 days	Percentage of student is 100.0
+DATE			 NAME				#MSGS
+01-02-2021		SAMANDEEP SINGH			3
+02-02-2021		SAMANDEEP SINGH			2
+09-02-2021		SAMANDEEP SINGH			4
+
+ENTER TARGET NAME	VISHAL SINGH is present 2 days out of 3 days	Percentage of student is 66.7
+DATE			 NAME				#MSGS
+01-02-2021		VISHAL SINGH			16
+02-02-2021		VISHAL SINGH			2
+09-02-2021		VISHAL SINGH			0
+
+ENTER TARGET NAME	KALASH SINGHAL is present 3 days out of 3 days	Percentage of student is 100.0
+DATE			 NAME				#MSGS
+01-02-2021		KALASH SINGHAL			6
+02-02-2021		KALASH SINGHAL			5
+09-02-2021		KALASH SINGHAL			12
+
+ENTER TARGET NAME	ANAVI SOMANI is present 3 days out of 3 days	Percentage of student is 100.0
+DATE			 NAME				#MSGS
+01-02-2021		ANAVI SOMANI			6
+02-02-2021		ANAVI SOMANI			7
+09-02-2021		ANAVI SOMANI			10
+
+ENTER TARGET NAME	G SOWMYA KRANTHI is present 3 days out of 3 days	Percentage of student is 100.0
+DATE			 NAME				#MSGS
+01-02-2021		G SOWMYA KRANTHI			2
+02-02-2021		G SOWMYA KRANTHI			1
+09-02-2021		G SOWMYA KRANTHI			4
+
+ENTER TARGET NAME	ARYAN SRIVASTAVA is present 1 days out of 3 days	Percentage of student is 33.3
+DATE			 NAME				#MSGS
+01-02-2021		ARYAN SRIVASTAVA			0
+02-02-2021		ARYAN SRIVASTAVA			0
+09-02-2021		ARYAN SRIVASTAVA			6
+
+ENTER TARGET NAME	SIMHADRI SUKEERTHI is present 3 days out of 3 days	Percentage of student is 100.0
+DATE			 NAME				#MSGS
+01-02-2021		SIMHADRI SUKEERTHI			9
+02-02-2021		SIMHADRI SUKEERTHI			8
+09-02-2021		SIMHADRI SUKEERTHI			7
+
+ENTER TARGET NAME	GONTHUPULI SYAMJI is present 3 days out of 3 days	Percentage of student is 100.0
+DATE			 NAME				#MSGS
+01-02-2021		GONTHUPULI SYAMJI			3
+02-02-2021		GONTHUPULI SYAMJI			3
+09-02-2021		GONTHUPULI SYAMJI			2
+
+ENTER TARGET NAME	PALAK TALWAR is present 3 days out of 3 days	Percentage of student is 100.0
+DATE			 NAME				#MSGS
+01-02-2021		PALAK TALWAR			5
+02-02-2021		PALAK TALWAR			10
+09-02-2021		PALAK TALWAR			11
+
+ENTER TARGET NAME	CHARAN TEJA is present 3 days out of 3 days	Percentage of student is 100.0
+DATE			 NAME				#MSGS
+01-02-2021		CHARAN TEJA			5
+02-02-2021		CHARAN TEJA			12
+09-02-2021		CHARAN TEJA			12
+
+ENTER TARGET NAME	VAIBHAV is present 3 days out of 3 days	Percentage of student is 100.0
+DATE			 NAME				#MSGS
+01-02-2021		VAIBHAV			0
+02-02-2021		VAIBHAV			0
+09-02-2021		VAIBHAV			2
+
+ENTER TARGET NAME	KA.PATEL VAIBHAV is present 0 days out of 3 days	Percentage of student is 0.0
+DATE			 NAME				#MSGS
+01-02-2021		KA.PATEL VAIBHAV			0
+02-02-2021		KA.PATEL VAIBHAV			0
+09-02-2021		KA.PATEL VAIBHAV			0
+
+ENTER TARGET NAME	VEDANT VASU is present 3 days out of 3 days	Percentage of student is 100.0
+DATE			 NAME				#MSGS
+01-02-2021		VEDANT VASU			7
+02-02-2021		VEDANT VASU			4
+09-02-2021		VEDANT VASU			4
+
+ENTER TARGET NAME	HIMANSHU VERMA is present 3 days out of 3 days	Percentage of student is 100.0
+DATE			 NAME				#MSGS
+01-02-2021		HIMANSHU VERMA			5
+02-02-2021		HIMANSHU VERMA			6
+09-02-2021		HIMANSHU VERMA			6
+
+ENTER TARGET NAME	ABHISHEK YADAV is present 3 days out of 3 days	Percentage of student is 100.0
+DATE			 NAME				#MSGS
+01-02-2021		ABHISHEK YADAV			5
+02-02-2021		ABHISHEK YADAV			7
+09-02-2021		ABHISHEK YADAV			3
+
+ENTER TARGET NAME	HARSHITH YADAV is present 0 days out of 3 days	Percentage of student is 0.0
+DATE			 NAME				#MSGS
+01-02-2021		HARSHITH YADAV			0
+02-02-2021		HARSHITH YADAV			0
+09-02-2021		HARSHITH YADAV			0
+
+ENTER TARGET NAME	VAIBHAV YADAV is present 3 days out of 3 days	Percentage of student is 100.0
+DATE			 NAME				#MSGS
+01-02-2021		VAIBHAV YADAV			8
+02-02-2021		VAIBHAV YADAV			6
+09-02-2021		VAIBHAV YADAV			4
